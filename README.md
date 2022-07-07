@@ -29,8 +29,10 @@
 
 
  
+ 
+ 
 ---
-
+> 如果您觉得对您有帮助，请点个Stars!:blush:
 
 ## 参考
 - [原开发者](https://github.com/hyb1996/Auto.js)
