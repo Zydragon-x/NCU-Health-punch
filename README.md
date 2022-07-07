@@ -7,7 +7,7 @@
 - 请牢记：疫情防控始终是一个敏感且重要的话题。如果您决定使用该项目所提供的服务，那么其带来的一切后果，均将由您个人承担，与开发者、原作者、贡献者无关。
 
 ## 步骤一：安装Autojs到您的手机上
-  [这里通过网盘下载](https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88)
+  [~~这里通过网盘下载~~](https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88)
 
 
 ## 步骤二：开启无障碍服务及其所需权限
