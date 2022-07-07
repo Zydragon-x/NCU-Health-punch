@@ -21,5 +21,4 @@
 ## 参考
 - [原开发者](https://github.com/hyb1996/Auto.js)
 - [官方文档](https://pro.autojs.org/docs/#/zh-cn/)
-- https://github.com/forgetallthing/autojsScripts
 - [自动化脚本学习教程和相关demo](https://github.com/wiatingpub/autojs)
