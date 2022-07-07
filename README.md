@@ -8,7 +8,8 @@
 
 ## 使用方法
 
-### Step one 下载Autojs
-- 您可以下载我提供的https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88
+### Step one 
+下载Autojs
+- https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88
 - 
 
