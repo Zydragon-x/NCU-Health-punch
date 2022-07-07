@@ -1,13 +1,16 @@
 device.wakeUp();
+
 sleep(500);
 swipe(535, 1935, 535, 745, 500);
 sleep(300);
+
 click();
 click();
 click();
 click();
 click();
 click();
+
 sleep(2000);
 launchApp("企业微信");
 sleep(3200);
@@ -27,6 +30,7 @@ click(266, 756);
 sleep(700);
 click(520, 2145);
 sleep(800);
+
 recents();
 sleep(700);
 click(545, 2120);
