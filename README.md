@@ -12,7 +12,8 @@
 自动结束后台应用后等待息屏（通过手机上的设置中的休眠）。
 
 ## 步骤一：安装Autojs到您的手机上
-  [~~这里通过网盘下载~~](https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88)
+  [~~这里通过网盘下载~~](https://pan.baidu.com/s/1P-sO9xtVGJWq8voAFBl6dQ?pwd=jc88) ，或者您可以在github上自行搜索相关资源下载Autojs其他版本。
+  
 
 
 ## 步骤二：开启无障碍服务及其所需权限
@@ -27,3 +28,6 @@
 - [原开发者](https://github.com/hyb1996/Auto.js)
 - [官方文档](https://pro.autojs.org/docs/#/zh-cn/)
 - [自动化脚本学习教程和相关demo](https://github.com/wiatingpub/autojs)
+- [AutoX.js](https://github.com/kkevsekk1/AutoX)
+
+
