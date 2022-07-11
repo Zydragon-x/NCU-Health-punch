@@ -1,4 +1,4 @@
-# Ncu-Health-punch
+# NCU-Health-punch
 基于Autojs的南昌大学企业微信健康打卡自动化
 
 ## 声明
